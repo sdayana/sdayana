@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @sdayana!
 - 👀 I’m a creative technologist and product designer.
 - 🌱 I’m currently learning Touchdesigner and Python in various capacities.
+
 <! ---
 - 💞️ I’m looking to collaborate on front-end projects and R packages.
 --->
