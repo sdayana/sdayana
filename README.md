@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @sdayana!
-- 👀 I’m interested in learning design, fullstack web development, and supplementing my neuroscience degree with data science skills.
-- 🌱 I’m currently learning design, html, CSS, JavaScript and R.
+- 👀 I’m a creative technologist and product designer.
+- 🌱 I’m currently learning Touchdesigner and Python in various capacities.
+<! ---
 - 💞️ I’m looking to collaborate on front-end projects and R packages.
+--->
 - 📫 How to reach me on discord: dayana#2037!
 
 <!---
