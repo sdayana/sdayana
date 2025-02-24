@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Touchdesigner and Python in various capacities.
 
 <! ---
-- 💞️ I’m looking to collaborate on front-end projects and R packages.
+💞️ I’m looking to collaborate on front-end projects and R packages.
 --->
 - 📫 How to reach me on discord: dayana#2037!
 
